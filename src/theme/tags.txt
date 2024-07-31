@@ -1,0 +1,16 @@
+<span className = 'tag selected'
+                            style = {{ color: 'rgb(255, 171, 43)', backgroundColor: 'rgb(255, 250, 240)' }}>
+                            Sketch
+                        </span>
+                        <span className = 'tag'
+                            style = {{ color: 'rgb(254, 77, 151)', backgroundColor: 'rgb(255, 244, 249)' }}>
+                            Dribble
+                        </span>
+                        <span className = 'tag'
+                            style = {{ color: 'rgb(77, 124, 254)', backgroundColor: 'rgb(240, 243, 251)' }}>
+                            Behance
+                        </span>
+                        <span className = 'tag'
+                            style = {{ color: 'rgb(134, 134, 134)', backgroundColor: 'rgb(236, 236, 236)' }}>
+                            UX
+                        </span>

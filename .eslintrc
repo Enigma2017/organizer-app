@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "no-void": "off",
+        "indent": ["error", 4, { "SwitchCase": 1 }]
+    }
+}
